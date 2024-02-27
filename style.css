@@ -8,3 +8,12 @@ h1 {color: red;}
 	font-weight: 1000;
 	text-decoration: underline;}
 	a {color: red;}
+	
+	.para_1_style { color: crimson;
+	font-size: 36px;
+	}
+
+.para_2_style {
+	
+	font-size: 36px;
+}
